@@ -4,7 +4,6 @@ import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 import android.net.wifi.WifiManager;
-
 import com.smartcodeunited.wifi.utils.MyLog;
 
 public class WifiScanBroadCast extends BroadcastReceiver {
